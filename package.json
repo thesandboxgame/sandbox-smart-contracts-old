@@ -41,7 +41,7 @@
     "ganache-cli": "^6.9.1",
     "googleapis": "^47.0.0",
     "js-sha256": "^0.9.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mocha": "^7.1.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
